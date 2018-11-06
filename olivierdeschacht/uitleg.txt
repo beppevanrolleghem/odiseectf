@@ -1,0 +1,4 @@
+Olivier Deschacht heeft allicht een zwak paswoord als zelfs zijn broer zomaar met zijn account aan de slag kan.
+Als hij ook nog de gewoonte heeft om zijn paswoorden te hergebruiken en ze niet aan te passen, dan zijn er mogelijkheden met deze in 2014 buitgemaakte hash.
+Let op: van Ollie is geweten dat hij wel speciale trucjes toepast. Hij vervangt ‘a’ wel eens door ‘@’, ‘e’ door ‘3’, o door ‘0’, s door ‘5’, g door ‘9’ en i door ‘!’. Bovendien durft hij speciale tekens toevoegen, meer bepaald ‘!’ en ‘*’ gebruikt hij graag en schrijft hij namen wel eens achterstevoren.
+Er is ook wat informatie over het systeem waar het paswoord wordt gebruikt: het paswoord moet minimaal 8 karakters bevatten en mag er maximaal 20 tellen.

@@ -1,0 +1,3 @@
+Gegeven is een md5 hash. Het is moeilijk te onthouden, maar het paswoord dat bij de hash hoort, is random gegenereerd op basis van de karakters in python’s string.printable. Het paswoord is 10 karakters lang en is bruikbaar om met het meegeleverde script het eveneens meegeleverde png bestand te decrypteren.
+Dit script is hetzelfde script als wat bruikbaar was in de AES-CBC opgave.
+Om het script uit te voeren is python 2.7 met de pycryptodome library nodig (zoals in de installatie op de labo pc’s). De vlag staat in de gedecrypteerde afbeelding.

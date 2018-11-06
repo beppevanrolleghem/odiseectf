@@ -1,0 +1,2 @@
+Paswoorden moeten niet in een woordenboek voorkomen. Gebruikers kiezen mogelijk voor een favoriet woord of een favoriete schrijfwijze van een woord. Om toch een bruikbaar dictionary samen te stellen kan gekeken worden naar favoriete sites, tweets rond een onderwerp, bepaalde video’s (met commentaar).
+In dit geval is de hash afkomstig van een woord dat terug te vinden is in de comments op deze youtube video: https://www.youtube.com/watch?v=AKLrKMz-avE
