@@ -1,2 +1,0 @@
-In een kort tekstdocument zit een vlag. Het tekstdocument werd versleuteld met RSA gebruik makend van een publieke sleutel.
-De publieke sleutel krijg je erbij in de vorm van een pem-bestand.

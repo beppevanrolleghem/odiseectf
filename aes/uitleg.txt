@@ -1,4 +1,0 @@
-Het png bestand bij deze opgave is symmetrisch versleuteld met AES in CBC mode. Voor integriteitscontrole werd het originele bericht aangevuld met een SHA256 hash alvorens dit geheel versleuteld werd.
-Het script voor decryptie is beschikbaar. Hieruit kan je afleiden dat het vertrekt van een paswoord. Van het paswoord is geweten dat het bestaat uit zes verschillende letters van de bovenste rij van een azerty-toetsenbord (azertyuiop). Het paswoord wordt dankzij een hash functie omgezet in een 128 bit sleutel, die dan gebruikt wordt voor AES.
-Je moet het script niet gebruiken of uitvoeren, maar als je dat toch wil doen is de pycryptodome library nodig (en niet pycrypto). Voor het testen van het decryptiemechanisme is er ook een bestand toegevoegd dat versleuteld werd met een gekende sleutel (‘azerty’).
-Brute force is onmogelijk met een 128 bit sleutel.
