@@ -1,0 +1,2 @@
+Bij de aanval op een organisatie worden een aantal “high value targets” geïdentificeerd. Blijkt dat ze in 2012 een LinkedIn account hadden. De kans bestaat dat het toen gebruikte paswoord ook voor andere logins gebruikt werd en dat het paswoord niet is aangepast
+In het meegeleverde bestand staan de hashes van de interessante gebruikers die bij de LinkedIn password leak van 2012 beschikbaar werden. Als je een paswoord kan recupereren, is het bruikbaar als flag.

@@ -1,0 +1,85 @@
+11/06/18 16:14:41 v1.34.3 @ arch-laptop, 
+11/06/18 16:14:41 v1.34.3 @ arch-laptop, ****************************
+11/06/18 16:14:41 v1.34.3 @ arch-laptop, Starting factorization of 65537
+11/06/18 16:14:41 v1.34.3 @ arch-laptop, using pretesting plan: normal
+11/06/18 16:14:41 v1.34.3 @ arch-laptop, no tune info: using qs/gnfs crossover of 95 digits
+11/06/18 16:14:41 v1.34.3 @ arch-laptop, ****************************
+11/06/18 16:14:41 v1.34.3 @ arch-laptop, prp5 = 65537
+11/06/18 16:14:41 v1.34.3 @ arch-laptop, Total factoring time = 0.0002 seconds
+11/13/18 09:18:44 v1.34.3 @ arch-laptop, 
+11/13/18 09:18:44 v1.34.3 @ arch-laptop, ****************************
+11/13/18 09:18:44 v1.34.3 @ arch-laptop, Starting factorization of 96812736425632664666015008713537286953764545424199836244364938864771752770723
+11/13/18 09:18:44 v1.34.3 @ arch-laptop, using pretesting plan: normal
+11/13/18 09:18:44 v1.34.3 @ arch-laptop, no tune info: using qs/gnfs crossover of 95 digits
+11/13/18 09:18:44 v1.34.3 @ arch-laptop, ****************************
+11/13/18 09:18:44 v1.34.3 @ arch-laptop, rho: x^2 + 3, starting 1000 iterations on C77
+11/13/18 09:18:44 v1.34.3 @ arch-laptop, rho: x^2 + 2, starting 1000 iterations on C77
+11/13/18 09:18:44 v1.34.3 @ arch-laptop, rho: x^2 + 1, starting 1000 iterations on C77
+11/13/18 09:18:44 v1.34.3 @ arch-laptop, pm1: starting B1 = 150K, B2 = gmp-ecm default on C77
+11/13/18 09:18:44 v1.34.3 @ arch-laptop, current ECM pretesting depth: 0.00
+11/13/18 09:18:44 v1.34.3 @ arch-laptop, scheduled 30 curves at B1=2000 toward target pretesting depth of 23.69
+11/13/18 09:18:44 v1.34.3 @ arch-laptop, Finished 30 curves using Lenstra ECM method on C77 input, B1=2K, B2=gmp-ecm default
+11/13/18 09:18:44 v1.34.3 @ arch-laptop, current ECM pretesting depth: 15.18
+11/13/18 09:18:44 v1.34.3 @ arch-laptop, scheduled 74 curves at B1=11000 toward target pretesting depth of 23.69
+11/13/18 09:18:46 v1.34.3 @ arch-laptop, Finished 74 curves using Lenstra ECM method on C77 input, B1=11K, B2=gmp-ecm default
+11/13/18 09:18:46 v1.34.3 @ arch-laptop, current ECM pretesting depth: 20.24
+11/13/18 09:18:46 v1.34.3 @ arch-laptop, scheduled 149 curves at B1=50000 toward target pretesting depth of 23.69
+11/13/18 09:19:02 v1.34.3 @ arch-laptop, Finished 149 curves using Lenstra ECM method on C77 input, B1=50K, B2=gmp-ecm default
+11/13/18 09:19:02 v1.34.3 @ arch-laptop, final ECM pretested depth: 23.72
+11/13/18 09:19:02 v1.34.3 @ arch-laptop, scheduler: switching to sieve method
+11/13/18 09:19:02 v1.34.3 @ arch-laptop, starting SIQS on c77: 96812736425632664666015008713537286953764545424199836244364938864771752770723
+11/13/18 09:19:02 v1.34.3 @ arch-laptop, random seeds: 536257088, 4097496803
+11/13/18 09:19:02 v1.34.3 @ arch-laptop, ==== sieve params ====
+11/13/18 09:19:02 v1.34.3 @ arch-laptop, n = 77 digits, 256 bits
+11/13/18 09:19:02 v1.34.3 @ arch-laptop, factor base: 36160 primes (max prime = 906331)
+11/13/18 09:19:02 v1.34.3 @ arch-laptop, single large prime cutoff: 77038135 (85 * pmax)
+11/13/18 09:19:02 v1.34.3 @ arch-laptop, allocating 7 large prime slices of factor base
+11/13/18 09:19:02 v1.34.3 @ arch-laptop, buckets hold 2048 elements
+11/13/18 09:19:02 v1.34.3 @ arch-laptop, using 32k sieve core
+11/13/18 09:19:02 v1.34.3 @ arch-laptop, sieve interval: 10 blocks of size 32768
+11/13/18 09:19:02 v1.34.3 @ arch-laptop, polynomial A has ~ 10 factors
+11/13/18 09:19:02 v1.34.3 @ arch-laptop, using multiplier of 1
+11/13/18 09:19:02 v1.34.3 @ arch-laptop, using SPV correction of 20 bits, starting at offset 35
+11/13/18 09:19:02 v1.34.3 @ arch-laptop, using SSE2 for trial division and x64 sieve scanning
+11/13/18 09:19:02 v1.34.3 @ arch-laptop, using SSE4.1 enabled 32k sieve core
+11/13/18 09:19:02 v1.34.3 @ arch-laptop, using SSE2 for resieving 13-16 bit primes
+11/13/18 09:19:02 v1.34.3 @ arch-laptop, trial factoring cutoff at 90 bits
+11/13/18 09:19:02 v1.34.3 @ arch-laptop, ==== sieving started (1 thread) ====
+11/13/18 09:20:52 v1.34.3 @ arch-laptop, trial division touched 3100665 sieve locations out of 45953843200
+11/13/18 09:20:52 v1.34.3 @ arch-laptop, 36295 relations found: 18547 full + 17748 from 187909 partial, using 70120 polys (279 A polys)
+11/13/18 09:20:52 v1.34.3 @ arch-laptop, on average, sieving found 2.94 rels/poly and 1881.88 rels/sec
+11/13/18 09:20:52 v1.34.3 @ arch-laptop, trial division touched 3100665 sieve locations out of 45953843200
+11/13/18 09:20:52 v1.34.3 @ arch-laptop, ==== post processing stage (msieve-1.38) ====
+11/13/18 09:20:52 v1.34.3 @ arch-laptop, begin with 206456 relations
+11/13/18 09:20:52 v1.34.3 @ arch-laptop, reduce to 51844 relations in 2 passes
+11/13/18 09:20:52 v1.34.3 @ arch-laptop, recovered 51844 relations
+11/13/18 09:20:52 v1.34.3 @ arch-laptop, recovered 36656 polynomials
+11/13/18 09:20:52 v1.34.3 @ arch-laptop, freed 9 duplicate relations
+11/13/18 09:20:52 v1.34.3 @ arch-laptop, attempting to build 36286 cycles
+11/13/18 09:20:52 v1.34.3 @ arch-laptop, found 36286 cycles in 1 passes
+11/13/18 09:20:52 v1.34.3 @ arch-laptop, distribution of cycle lengths:
+11/13/18 09:20:52 v1.34.3 @ arch-laptop,    length 1 : 18545
+11/13/18 09:20:52 v1.34.3 @ arch-laptop,    length 2 : 17741
+11/13/18 09:20:52 v1.34.3 @ arch-laptop, largest cycle: 2 relations
+11/13/18 09:20:52 v1.34.3 @ arch-laptop, matrix is 36160 x 36286 (5.2 MB) with weight 1063582 (29.31/col)
+11/13/18 09:20:52 v1.34.3 @ arch-laptop, sparse part has weight 1063582 (29.31/col)
+11/13/18 09:20:52 v1.34.3 @ arch-laptop, filtering completed in 3 passes
+11/13/18 09:20:52 v1.34.3 @ arch-laptop, matrix is 25772 x 25836 (4.1 MB) with weight 857398 (33.19/col)
+11/13/18 09:20:52 v1.34.3 @ arch-laptop, sparse part has weight 857398 (33.19/col)
+11/13/18 09:20:52 v1.34.3 @ arch-laptop, saving the first 48 matrix rows for later
+11/13/18 09:20:52 v1.34.3 @ arch-laptop, matrix is 25724 x 25836 (3.3 MB) with weight 699368 (27.07/col)
+11/13/18 09:20:52 v1.34.3 @ arch-laptop, sparse part has weight 617217 (23.89/col)
+11/13/18 09:20:52 v1.34.3 @ arch-laptop, matrix includes 64 packed rows
+11/13/18 09:20:52 v1.34.3 @ arch-laptop, using block size 10334 for processor cache size 3072 kB
+11/13/18 09:20:52 v1.34.3 @ arch-laptop, commencing Lanczos iteration
+11/13/18 09:20:52 v1.34.3 @ arch-laptop, memory use: 3.1 MB
+11/13/18 09:20:53 v1.34.3 @ arch-laptop, lanczos halted after 408 iterations (dim = 25720)
+11/13/18 09:20:53 v1.34.3 @ arch-laptop, recovered 15 nontrivial dependencies
+11/13/18 09:20:53 v1.34.3 @ arch-laptop, prp39 = 285654914474128418727141496733493951767
+11/13/18 09:20:53 v1.34.3 @ arch-laptop, prp39 = 338915003804007480961863644234175376469
+11/13/18 09:20:53 v1.34.3 @ arch-laptop, Lanczos elapsed time = 1.5277 seconds.
+11/13/18 09:20:53 v1.34.3 @ arch-laptop, Sqrt elapsed time = 0.0501 seconds.
+11/13/18 09:20:53 v1.34.3 @ arch-laptop, SIQS elapsed time = 111.2947 seconds.
+11/13/18 09:20:53 v1.34.3 @ arch-laptop, 
+11/13/18 09:20:53 v1.34.3 @ arch-laptop, 
+11/13/18 09:20:53 v1.34.3 @ arch-laptop, Total factoring time = 129.7620 seconds

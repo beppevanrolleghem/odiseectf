@@ -1,0 +1,106 @@
+11/06/18 16:14:32 v1.34.3 @ arch-laptop, System/Build Info: 
+Using GMP-ECM 7.0.4, Powered by GMP 6.1.2
+cached 78498 primes. pmax = 999983
+detected Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz
+detected L1 = 32768 bytes, L2 = 3145728 bytes, CL = 64 bytes
+measured cpu frequency ~= 2194.884840
+using 20 random witnesses for Rabin-Miller PRP checks
+
+11/06/18 16:14:32 v1.34.3 @ arch-laptop, New random seeds: 1627275890, 3413126897
+
+11/06/18 16:14:32 v1.34.3 @ arch-laptop, Processing expression: factor(<0x10001>)
+
+11/06/18 16:14:41 v1.34.3 @ arch-laptop, System/Build Info: 
+Using GMP-ECM 7.0.4, Powered by GMP 6.1.2
+cached 78498 primes. pmax = 999983
+detected Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz
+detected L1 = 32768 bytes, L2 = 3145728 bytes, CL = 64 bytes
+measured cpu frequency ~= 2194.898370
+using 20 random witnesses for Rabin-Miller PRP checks
+
+11/06/18 16:14:41 v1.34.3 @ arch-laptop, New random seeds: 1051584989, 882356502
+
+11/06/18 16:14:41 v1.34.3 @ arch-laptop, Processing expression: factor(0x10001)
+
+11/06/18 16:24:16 v1.34.3 @ arch-laptop, System/Build Info: 
+Using GMP-ECM 7.0.4, Powered by GMP 6.1.2
+cached 78498 primes. pmax = 999983
+detected Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz
+detected L1 = 32768 bytes, L2 = 3145728 bytes, CL = 64 bytes
+measured cpu frequency ~= 2194.923100
+using 20 random witnesses for Rabin-Miller PRP checks
+
+11/06/18 16:24:16 v1.34.3 @ arch-laptop, New random seeds: 4224413532, 2143373325
+
+11/06/18 16:24:16 v1.34.3 @ arch-laptop, Processing expression: factor(00d60a112625fb792c2d76920ccc82be9bdf57b5529c10811cec7fbe716b23bca3)
+
+11/06/18 16:24:36 v1.34.3 @ arch-laptop, System/Build Info: 
+Using GMP-ECM 7.0.4, Powered by GMP 6.1.2
+cached 78498 primes. pmax = 999983
+detected Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz
+detected L1 = 32768 bytes, L2 = 3145728 bytes, CL = 64 bytes
+measured cpu frequency ~= 2194.915970
+using 20 random witnesses for Rabin-Miller PRP checks
+
+11/06/18 16:24:36 v1.34.3 @ arch-laptop, New random seeds: 2525150347, 3657121282
+
+11/06/18 16:24:36 v1.34.3 @ arch-laptop, Processing expression: factor(00d60a112625fb792c2d76920ccc82be9bdf57b5529c10811cec7fbe716b23bca3)
+
+11/13/18 09:14:43 v1.34.3 @ arch-laptop, System/Build Info: 
+Using GMP-ECM 7.0.4, Powered by GMP 6.1.2
+cached 78498 primes. pmax = 999983
+detected Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz
+detected L1 = 32768 bytes, L2 = 3145728 bytes, CL = 64 bytes
+measured cpu frequency ~= 2194.946830
+using 20 random witnesses for Rabin-Miller PRP checks
+
+11/13/18 09:14:43 v1.34.3 @ arch-laptop, New random seeds: 2047947468, 1624631330
+
+11/13/18 09:16:07 v1.34.3 @ arch-laptop, System/Build Info: 
+Using GMP-ECM 7.0.4, Powered by GMP 6.1.2
+cached 78498 primes. pmax = 999983
+detected Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz
+detected L1 = 32768 bytes, L2 = 3145728 bytes, CL = 64 bytes
+measured cpu frequency ~= 2195.208090
+using 20 random witnesses for Rabin-Miller PRP checks
+
+11/13/18 09:16:07 v1.34.3 @ arch-laptop, New random seeds: 2278855937, 1615700715
+
+11/13/18 09:16:07 v1.34.3 @ arch-laptop, Processing expression: factor(00:d6:0a:11:26:25:fb:79:2c:2d:76:92:0c:cc:82:be:9b:df:57:b5:52:9c:10:81:1c:ec:7f:be:71:6b:23:bc:a3)
+
+11/13/18 09:18:02 v1.34.3 @ arch-laptop, System/Build Info: 
+Using GMP-ECM 7.0.4, Powered by GMP 6.1.2
+cached 78498 primes. pmax = 999983
+detected Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz
+detected L1 = 32768 bytes, L2 = 3145728 bytes, CL = 64 bytes
+measured cpu frequency ~= 2195.056730
+using 20 random witnesses for Rabin-Miller PRP checks
+
+11/13/18 09:18:02 v1.34.3 @ arch-laptop, New random seeds: 3974155679, 4201899115
+
+11/13/18 09:18:02 v1.34.3 @ arch-laptop, Processing expression: factor(00:d6:0a:11:26:25:fb:79:2c:2d:76:92:0c:cc:82:be:9b:df:57:b5:52:9c:10811cec7fbe716b23bca3)
+
+11/13/18 09:18:23 v1.34.3 @ arch-laptop, System/Build Info: 
+Using GMP-ECM 7.0.4, Powered by GMP 6.1.2
+cached 78498 primes. pmax = 999983
+detected Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz
+detected L1 = 32768 bytes, L2 = 3145728 bytes, CL = 64 bytes
+measured cpu frequency ~= 2195.046510
+using 20 random witnesses for Rabin-Miller PRP checks
+
+11/13/18 09:18:23 v1.34.3 @ arch-laptop, New random seeds: 3000548796, 849839776
+
+11/13/18 09:18:23 v1.34.3 @ arch-laptop, Processing expression: factor(00d60a112625fb792c2d76920ccc82be9bdf57b5529c10811cec7fbe716b23bca3)
+
+11/13/18 09:18:44 v1.34.3 @ arch-laptop, System/Build Info: 
+Using GMP-ECM 7.0.4, Powered by GMP 6.1.2
+cached 78498 primes. pmax = 999983
+detected Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz
+detected L1 = 32768 bytes, L2 = 3145728 bytes, CL = 64 bytes
+measured cpu frequency ~= 2195.052370
+using 20 random witnesses for Rabin-Miller PRP checks
+
+11/13/18 09:18:44 v1.34.3 @ arch-laptop, New random seeds: 1194384055, 434005162
+
+11/13/18 09:18:44 v1.34.3 @ arch-laptop, Processing expression: factor(0x00d60a112625fb792c2d76920ccc82be9bdf57b5529c10811cec7fbe716b23bca3)
+
