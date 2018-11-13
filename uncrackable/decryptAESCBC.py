@@ -41,7 +41,10 @@ def decrypt_AES_CBC(inputfilename, encryptedContent):
                                                                                                            inputfilename)]
 
     key = generatekey()
-    decipher = AES.new(key, AES.MODE_CBC)
+    temp = open("hash34.txt", "r").read()
+    print(type(temp))
+    print(type(key))
+    decipher = AES.new(temp, AES.MODE_CBC)
     decryptedcontent = decipher.decrypt(encryptedContent)
 
     ivlength = 16
