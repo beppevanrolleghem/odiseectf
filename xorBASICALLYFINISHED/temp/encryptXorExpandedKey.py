@@ -40,6 +40,7 @@ def main():
         #key = bytes([0x49, 0x47, 0x38, 0x46, 0x61, 0x39, 0x03, 0xc0, 0x02, 0x80])
         #key = bytes([0x6e, 0x66, 0x4e, 0x7b, 0x94, 0xae, 0xd2, 0x15, 0xb4, 0xec])
         key = bytes(b'\x29\x2f\x08\x43\xad\xcf\x12\x16\x34\xee')
+        key = bytes.fromhex('3f8015fb17b7e9a48477')
         expanded_key = expand_key(key, len(data))
         data_encrypted = xor(expanded_key, data)
 
