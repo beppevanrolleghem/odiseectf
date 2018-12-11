@@ -21,11 +21,14 @@ def main():
         f = open(filename,'rb')
         data = f.read()
         f.close()
-
-        expanded_key = expand_key("0123456789", len(data))
+        with open("xor_960x640px.gif.enc.enc", "rb") as f:
+            key = f.read()[:10]
+            print(len(key))
+        #key=b"1234567890" 
+        expanded_key = expand_key(key, len(data))
         data_encrypted = xor(expanded_key, data)
 
-        print(data_encrypted)
+        #print(data_encrypted)
 
         f = open(filename + ".enc", "wb")
         f.write(data_encrypted)
@@ -80,7 +83,7 @@ def decrypt():
 
 
 if __name__ == "__main__":
-#    main()
-    decrypt()
+    main()
+    #decrypt()
 
 
